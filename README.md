@@ -117,7 +117,7 @@ Focus: Quality over quantity — every repo demonstrates deep understanding
 <a name="contact"></a>
 
 - **GitHub**: [@mehdiAI2020](https://github.com/mehdiAI2020)
-- **Email**: [your.email@univr.it](mailto:your.email@univr.it)
+- **Email**: [mahdi.beigzadehaghabagher@studenti.univr.it)
 - **University**: [University of Verona, CS Department](https://www.univr.it/)
 - **Supervisors**:
   - [Prof. Vittorio Murino](https://vittoriomurino.com/) (Thesis advisor, ELLIS fellow)
