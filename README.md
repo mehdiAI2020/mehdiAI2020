@@ -1,4 +1,4 @@
-# Mehdi Ahmadi | AI Researcher | NeuroAI Specialist
+# Mehdi Beigzadeh | AI Researcher | NeuroAI Specialist
 
 <div align="center">
 
