@@ -18,10 +18,10 @@
 
 I focus on the intersection of **Deep Learning Theory**, **Neuroscience**, and **Time Series Analysis**. My work bridges mathematical foundations of neural networks with real-world applications in neuroscience data analysis.
 
-- **NeuroAI**: Applying deep learning to understand neural dynamics and brain signals
-- **Time Series Analysis**: State-space models, RNNs, and Transformers for sequential data
 - **Multimodal Learning**: Fusion of heterogeneous data sources in medical and neuroscience contexts
 - **Deep Learning Theory**: From-scratch implementations revealing mathematical foundations
+- **NeuroAI**: Applying deep learning to understand neural dynamics and brain signals
+- **Time Series Analysis**: State-space models, RNNs, and Transformers for sequential data
 
 ---
 
@@ -132,7 +132,7 @@ Focus: Quality over quantity — every repo demonstrates deep understanding
 ✅ Applying to MSCA-funded PhD positions in NeuroAI
 ✅ Building a portfolio of deep learning theory implementations
 
-**Goal**: PhD in AI focusing on neuroscience applications, starting late 2026
+**Goal**: PhD in AI focusing on deep learning and multimudality applications, starting late 2026
 
 ---
 
